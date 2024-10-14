@@ -30,7 +30,7 @@ const Invitation = () => {
           <p>
             Adres:{" "}
             <strong>
-              &quot;EXCLUSIVE&quot; ul. pajdaka 5B, Radomsko
+              &quot;EXCLUSIVE&quot; ul. Pajdaka 5B, Radomsko
             </strong>
           </p>
         </div>
