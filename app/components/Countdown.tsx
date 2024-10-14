@@ -1,3 +1,5 @@
+"use client";
+
 // components/Countdown.tsx
 import React, { useEffect, useState } from "react";
 
