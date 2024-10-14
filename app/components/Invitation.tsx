@@ -5,7 +5,7 @@ const Invitation = () => {
   return (
     <div className="relative flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 text-white overflow-hidden">
       <Confetti />
-      <div className="bg-[url('/background.jpg')] bg-cover bg-center text-white p-8 rounded-lg shadow-lg max-w-lg text-center relative z-10">
+      <div className="bg-[url('/background.jpg')] bg-cover bg-center text-white p-8 rounded-lg shadow-lg max-w-md text-center relative z-10">
         <h1 className="text-4xl font-bold mb-4 animate-pulse">
           Serdecznie zapraszam
         </h1>
